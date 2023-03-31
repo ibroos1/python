@@ -1,5 +1,9 @@
-number1 = int(input("enter number : "))
-if number1%2==0 : 
-    print("even number ")
-else :
-    print("odd number")
+def oddoreven(number1):
+  if number1 % 2 == 0:
+    print("even")
+  else :
+    print("odd")  
+
+
+
+oddoreven(number1)
