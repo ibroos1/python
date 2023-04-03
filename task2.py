@@ -4,6 +4,4 @@ def oddoreven(number1):
   else :
     print("odd")  
 
-
-
-oddoreven(number1)
+oddoreven(6)
